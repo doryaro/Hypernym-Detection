@@ -5,7 +5,8 @@ stemmer \
 Weka: Machine Learning Algorithm
 
 ## how it works
-
+Example of the input: Google Books Syntactic N-grams Biarcs can be seen in the file: \
+input-dpMin-30.txt
 ### step1
 The input is a file of the Biarcs. \
 Run a stemmer on the pairs of nouns and find the route between any two nouns. \
